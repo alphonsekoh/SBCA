@@ -50,6 +50,11 @@ To install dependencies in the current environment from a `requirements.txt` fil
 ```
 (venv) pip install -r requirements.txt
 ```
+## Running the Program
+Once you activated your virtual enviroment, you can run the program. To run the program, 
+```
+python main.py
+```
 
 ### Deactivate Virtual Environment
 
@@ -59,4 +64,5 @@ The following command deactivates the current virtual environment, any dependenc
 (venv) deactivate
 ```
 ---
+
 
