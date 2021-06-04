@@ -1,4 +1,8 @@
 # SBCA
+Singapore Birth Count Analysis (SBCA) is a program for analysing the total birth count 
+in Singapore from 2016 to 2018. The main goal is to provide a user-friendly interface for user to show the 
+Singapore’s Live Birth Dataset in different sights.
+
 ## Features of SBCA 
 - An Interactive GUI for the project
 - Data Filtering 
